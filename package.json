@@ -1,0 +1,10 @@
+{
+  "name": "cypress_aula_pri",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Felipe Lau",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
